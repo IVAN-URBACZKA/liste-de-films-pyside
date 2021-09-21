@@ -4,11 +4,11 @@ PySide est un binding qui permet de lier le langage Python avec la bibliothèque
 
 Il constitue une alternative aux interfaces Tkinter.
 
-# Le script:
+# Le script
 
 Il est relativement simple, il permet d'ajouter ou de retirer un film d'une liste. 
 
-# Notions abordées:
+# Notions abordées
 
 POO - HÉRITAGE - INTERFACE GRAPHIQUE
 
